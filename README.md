@@ -1,5 +1,5 @@
 # Hitmarker: One-Stop Gaming Solution
-[![logo(logo)](./assets/logo.jpg)](#)
+![Hitmarker Logo](./assets/Hitmarker%20logo.jpg)
 
 ## Overview
 Hitmarker is dedicated to revolutionizing the gaming landscape in Pakistan by providing a holistic gaming solution. Our platform offers casual and professional gaming zones, coaching services, and competitive tournaments designed to nurture and showcase local gaming talent.
@@ -68,7 +68,7 @@ Hitmarker is dedicated to revolutionizing the gaming landscape in Pakistan by pr
 ## Additional Resources
 [![Project Advertisement](https://img.youtube.com/vi/a6-WnWAasjE/0.jpg)](https://youtu.be/a6-WnWAasjE?si=6PVxGHjaJ3UlETdj)
 [![Prototype Demo](https://via.placeholder.com/150?text=Prototype+Demo)](https://marvelapp.com/prototype/847f95e/screen/89815902)
-[![Presentation (PPT)](https://via.placeholder.com/150?text=View+Presentation)](#)
+[![Presentation (PPT)](./assets/Hitmarker%20PPT.ppt)](#)
 
 
 ## Contact
