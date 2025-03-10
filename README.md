@@ -67,9 +67,10 @@ Hitmarker is dedicated to revolutionizing the gaming landscape in Pakistan by pr
 
 ## Additional Resources
 [![Project Advertisement](https://img.youtube.com/vi/a6-WnWAasjE/0.jpg)](https://youtu.be/a6-WnWAasjE?si=6PVxGHjaJ3UlETdj)
-[![Prototype Demo](https://via.placeholder.com/150?text=Prototype+Demo)](https://marvelapp.com/prototype/847f95e/screen/89815902)
-[![Presentation (PPT)](./assets/Hitmarker%20PPT.ppt)](#)
 
+[![Prototype Demo](https://via.placeholder.com/150?text=Prototype+Demo)](https://marvelapp.com/prototype/847f95e/screen/89815902)
+
+[Hitmarker ppt.pptx](./path/to/Hitmarker%20ppt.pptx)
 
 ## Contact
 For inquiries, reach out via our [Contact Page](#).
